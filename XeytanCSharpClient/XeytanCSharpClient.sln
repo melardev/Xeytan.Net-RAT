@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XeytanCSharpClient", "XeytanCSharpClient\XeytanCSharpClient.csproj", "{91B148F9-74FF-41FC-BEFE-AEC2AFAB0675}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetLib", "..\Shared\NetLib\NetLib.csproj", "{4157B422-F031-41FB-800B-30974C0FEA4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91B148F9-74FF-41FC-BEFE-AEC2AFAB0675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B148F9-74FF-41FC-BEFE-AEC2AFAB0675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B148F9-74FF-41FC-BEFE-AEC2AFAB0675}.Debug|x64.ActiveCfg = Debug|x64
+		{91B148F9-74FF-41FC-BEFE-AEC2AFAB0675}.Debug|x64.Build.0 = Debug|x64
+		{91B148F9-74FF-41FC-BEFE-AEC2AFAB0675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B148F9-74FF-41FC-BEFE-AEC2AFAB0675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91B148F9-74FF-41FC-BEFE-AEC2AFAB0675}.Release|x64.ActiveCfg = Release|Any CPU
+		{91B148F9-74FF-41FC-BEFE-AEC2AFAB0675}.Release|x64.Build.0 = Release|Any CPU
+		{4157B422-F031-41FB-800B-30974C0FEA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4157B422-F031-41FB-800B-30974C0FEA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4157B422-F031-41FB-800B-30974C0FEA4D}.Debug|x64.ActiveCfg = Debug|x64
+		{4157B422-F031-41FB-800B-30974C0FEA4D}.Debug|x64.Build.0 = Debug|x64
+		{4157B422-F031-41FB-800B-30974C0FEA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4157B422-F031-41FB-800B-30974C0FEA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4157B422-F031-41FB-800B-30974C0FEA4D}.Release|x64.ActiveCfg = Release|x64
+		{4157B422-F031-41FB-800B-30974C0FEA4D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC3A3479-AE0B-4468-A235-7EC9F1FA6BE9}
+	EndGlobalSection
+EndGlobal
